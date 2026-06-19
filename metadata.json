@@ -1,0 +1,6 @@
+{
+  "name": "Sehat Care",
+  "description": "Medical Management System with Patient and Doctor flows, using traditional Pakistani names.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
